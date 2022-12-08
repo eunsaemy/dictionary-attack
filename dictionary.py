@@ -17,9 +17,7 @@
 ###########################################################################################
 
 from hmac import compare_digest as compare_hash
-# import pwd
 import crypt
-# import getpass
 import os
 import sys
 

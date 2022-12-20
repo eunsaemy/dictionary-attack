@@ -12,7 +12,7 @@ Write a dictionary-based password cracker for Fedora 36 that:
  - does NOT support:
     - Blowfish
     - DES
- - writes results into a log file
+ - writes results into a generated log file
  - sets path to shadow file
  - sets path to dictionary file
  - exits the program on prompt

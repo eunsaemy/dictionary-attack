@@ -10,8 +10,8 @@ Write a dictionary-based password cracker for Fedora 36 that:
   - SHA-512
   - yescrypt
  - does NOT support:
-  - Blowfish
-  - DES
+    - Blowfish
+    - DES
  - writes results into a log file
  - sets path to shadow file
  - sets path to dictionary file

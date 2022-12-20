@@ -1,4 +1,4 @@
-# dictionary-attack
+# dictionary-based attack
 
 ## COMP 8506 - Final Project
 

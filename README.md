@@ -1,6 +1,6 @@
 # dictionary-based attack
 
-## COMP 8506 - Final Project
+## A dictionary-based password cracker for Linux (Fedora 36)
 
 Write a dictionary-based password cracker for Fedora 36 that:
 - decrypts passwords in the /etc/shadow
